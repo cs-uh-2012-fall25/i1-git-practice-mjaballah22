@@ -10,3 +10,6 @@ I also value the focus on how the field develops talent. The author argues that 
 # Proof Reading 
 Article checked for typos
  
+
+# Review by Mohammed Alkhatib
+Very nice article and reflection. It's very nice to get reassured we aren't wasting our time majoring in computer science.
