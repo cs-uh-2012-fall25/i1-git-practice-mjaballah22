@@ -8,3 +8,6 @@ The most captivating part is how these tools act as collaborative partners rathe
 
 Article checked for typos
 
+## Manel Jaballah Input
+
+What I find most interresting about this article, especially considering the assignment we are working on, is the mentioning of GitHub Copilot integrated with VS Code. I would love to try it out and see how it can fill in blanks I may have in my coding knowledge. The article continues to mention different AI technologies that can assist computer scientists and programmers, and I found it fascinating. 
